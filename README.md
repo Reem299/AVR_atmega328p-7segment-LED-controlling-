@@ -1,4 +1,3 @@
-
 ✓ Configure any 2 GPIO pins as inputs connected to buttons.
 ✓ Activate the internal pull-up resistor of the input pins. ✓ Configure any GPIO port as output to be connected to LEDs.
 ✓ Configure any GPIO port as output to a be connected to 7-segment display.
